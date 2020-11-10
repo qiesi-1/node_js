@@ -1,4 +1,4 @@
-//加载第三方包与我们写好的配置文件，解析函数文件
+'C:\\Users\\Asus-\\Desktop\\xiaolong.txt'//加载第三方包与我们写好的配置文件，解析函数文件
 var config = require('./config.js');
 var analyze = require('./analyze.js');
 var request = require('request');
